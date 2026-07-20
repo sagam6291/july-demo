@@ -1,0 +1,20 @@
+{
+  "project_id": "proj_a2b8f3729598",
+  "name": "july demo",
+  "description": "",
+  "os": "windows",
+  "os_version": "win11",
+  "default_browser": "chrome",
+  "test_case_count": 1,
+  "pushed_at": "2026-07-20T12:40:43.546211",
+  "test_cases": [
+    {
+      "test_case_id": "tc_9b3930283a88",
+      "title": "test 1",
+      "flow_name": "test_navigate_to_youtube_movies_section_20260720_113844.py",
+      "browser": "chrome",
+      "lang": "python",
+      "file": "tests/test_1.py"
+    }
+  ]
+}
